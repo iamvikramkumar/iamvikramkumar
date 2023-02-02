@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvikramkumar" alt="iamvikramkumar" /></a> </p>
 <!--    ANIMATED GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/> -->
 
 
 - 🔭 I’m currently working on **my skills**
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikram-seth-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-seth-l" height="30" width="40" /></a>
-
+<a href="https://instagram.com/thevikram_seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevikram_seth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
