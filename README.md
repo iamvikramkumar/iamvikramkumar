@@ -12,7 +12,7 @@
 <a href="https://instagram.com/thevikram_seth">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+<!-- <a href="">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a> -->
 <a href="https://www.buymeacoffee.com/iamvikramkumar5">
@@ -25,7 +25,7 @@
 - I'm Devops Engineer ❤️
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with tech news, strumming my guitar, and immersing myself in music.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
 
 
 <!-- ##  ✔ Technologies  -->
@@ -46,17 +46,23 @@
 
 ### Design
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+
+
 ### Others
 
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
 
+### Achievements
+- [Microsoft Azure Badges 📛](https://learn.microsoft.com/en-us/users/me/achievements#badges-section) <br> 
+- [Microsoft Azure Trophies 🏆](https://learn.microsoft.com/en-us/users/me/achievements#trophies-section) <br>
+- [Google Cloud 🏆 ](https://www.cloudskillsboost.google/public_profiles/68f116c5-73ca-4e74-b3e1-68855b4157aa) <br>
 <!-- ## Certification 🎓
 
-- [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/248af738-5b9c-42b2-84a7-ec1464541231/public_url) <br> <br> -->
+- [HashiCorp Certified: Terraform Associate (002)](--link -- ) <br> <br> -->
 
 ## 📈 GitHub Stats
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamvikramkumar&theme=tokyonight)  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Vrukshali-26&theme=tokyonight) -->
+
