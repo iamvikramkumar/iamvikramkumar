@@ -1,5 +1,5 @@
 # Hey There, I'm [Vikram Kumar](https://www.linkedin.com/in/iamvikramkumar5)! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Vikram Kumar](https://www.linkedin.com/in/iamvikramkumar5)! -->
+# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Vikram Kumar](https://www.linkedin.com/in/iamvikramkumar5)! -->
 
 <a href="https://www.linkedin.com/in/iamvikramkumar5">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
